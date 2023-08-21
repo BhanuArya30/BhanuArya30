@@ -1,12 +1,8 @@
 ### Hi there. I'm Bhanu 👋
 
-I work in the field of Machine Learning. Particularly instrested in solving problems that augments human decision making.
+#### I work in the field of Machine Learning. Particularly instrested in solving problems that augments human decision making.
 
-<!--
-**BhanuArya30/BhanuArya30** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
--->
 - 🔭 I’m currently working on applying Large Language Models to augment human decision making.
 - 🌱 I’m passionate about solving problems. 
 - 👯 I’m looking to collaborate on NLP based problems on low resource languages.
