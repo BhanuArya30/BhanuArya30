@@ -1,13 +1,10 @@
 ### Hi there. I'm Bhanu 👋
 
-#### I work in the field of Machine Learning. Particularly instrested in solving problems that augments human decision making.
+#### I work in the field of Machine Learning (ML) focussing on Natural Language Processing (NLP).
 
-
-- 🔭 I’m currently working on applying Large Language Models to augment human decision making.
-- 🌱 I’m passionate about solving problems. 
-- 👯 I’m looking to collaborate on NLP based problems on low resource languages.
-- 🤔 I’m looking for help with challenges with LLM
-- 📫 How to reach me: Please drop me message on Linkedin - https://www.linkedin.com/in/aryabhanu/
-- 😄 Pronouns: He/ Him
-- ⚡ Fun fact: I enjoy hiking, playing table tennis and learning new things
+- 🔭 I’m currently working on applying Large Language Models to solve business problems.
+- 🌱 I’m passionate about applying ML research and developing a scalable solution.
+- 👯 I’m looking to collaborate on NLP based problems for low resource languages.
+- 📫 How to reach me: Please drop me message on Linkedin - https://www.linkedin.com/in/aryabhanu/.
+- ⚡ Fun fact: I enjoy hiking, playing table tennis and meditation.
 
