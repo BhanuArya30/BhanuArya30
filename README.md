@@ -1,6 +1,6 @@
 ### Hi there. I'm Bhanu 👋
 
-#### I work in the field of Machine Learning (ML) focussing on Natural Language Processing (NLP).
+I work in the field of Machine Learning (ML) focussing on Natural Language Processing (NLP).
 
 - 🔭 I’m currently working on applying Large Language Models to solve business problems.
 - 🌱 I’m passionate about applying ML research and developing a scalable solutions.
